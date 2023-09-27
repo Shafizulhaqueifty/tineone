@@ -1,0 +1,360 @@
+
+@media (max-width: 575.98px) { 
+
+          /* header section start here */
+          .logo_images{
+            width: 119px;
+            height: 34px;
+        }
+    
+        .menu ul li a {
+            margin: 0px 6px;
+            font-size: 16px;
+        }
+
+        .slider{
+            padding-top: 0px;
+        }
+
+        .slider_content h1 {
+            font-size: 26px;
+            line-height: 45px;
+        }
+
+        .slider_content h5 {
+            font-size: 18px;
+            padding-right: 0px;
+        }
+
+        .slider_content p {
+            padding-right: 0px;
+        }
+
+        .icons ul li {
+            font-size: 42px;
+            
+        }
+
+        /* feature section start here */
+
+        .feature {
+            padding: 30px 0;
+            line-height: 28px;
+        }
+        .feature_content_h1 {
+            font-size: 26px;
+        }
+
+        .feature_content_p {
+            font-size: 18px;
+        }
+        .fe_margin_def {
+            margin-top: 40px;
+        }
+
+        .fe_icon i {
+            font-size: 45px;
+            padding-bottom: 15px;
+        }
+
+        .fe_2nd_content {
+            text-align: center;
+        }
+
+        .fe_2nd_content p {
+            padding: 0 50px;
+        }
+
+        .fe_2nd_content h2 {
+            font-size: 20px;
+        }
+
+
+
+        
+    /* contact section start here */
+
+    .contact {
+        padding: 32px 0;
+    }
+    .contact_h1{
+        font-size: 26px;
+    }
+    
+    .contact_p{
+        font-size: 18px;
+
+    }
+
+    .contact_form {
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .contact_submit{
+        height: 50px;
+        padding: 10px 20px;
+    }
+    
+    .btn_submit{
+        height: 50px;
+        padding: 10px 20px;
+    }
+
+    .contact_icons ul li a{
+        font-size: 30px;
+        margin: 0 12px;
+       
+    }
+
+    
+    /* footer section start here */
+
+    footer {
+        padding-top: 20px;
+
+    }
+
+    .footer_mg_d{
+        text-align: center;
+    }
+
+    .footer_1 address{
+        text-align: center;
+        margin-bottom: 35px;
+    }
+
+    .footer_2{
+        margin-bottom: 25px;
+
+    }
+   
+ }
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+      /* header section start here */
+
+      
+      .logo_images{
+        width: 119px;
+        height: 34px;
+    }
+
+    .menu ul li a {
+        margin: 0px 6px;
+        font-size: 16px;
+    }
+
+
+    /* slider start here */
+
+    .slider{
+        padding-top: 0px;
+    }
+
+    .slider_content h1 {
+        font-size: 26px;
+        line-height: 45px;
+    }
+
+    .slider_content h5 {
+        font-size: 18px;
+        padding-right: 0px;
+    }
+
+    .slider_content p{
+    padding-right: 0px;
+    }
+
+    .icons ul li {
+        font-size: 42px;
+        
+    }
+
+       /* feature start here */
+       .feature{
+        padding: 30px 0;
+        line-height: 30px;
+
+    }
+    .feature_content_h1 {
+        font-size: 26px;
+    }
+
+    .feature_content_p {
+        font-size: 18px;
+    }
+
+    .fe_margin_def {
+        margin-top: 40px;
+    }
+
+    .fe_icon i {
+        font-size: 45px;
+        padding-bottom: 15px;
+    }
+
+    .fe_2nd_content {
+        text-align: center;
+    }
+    .fe_2nd_content h2 {
+        font-size: 20px;
+    }
+
+    .fe_2nd_content p {
+        padding: 0 60px;
+    }
+
+
+    /* contact section start here */
+
+    .contact {
+        padding: 32px 0;
+    }
+    .contact_h1{
+        font-size: 26px;
+    }
+    
+    .contact_p{
+        font-size: 18px;
+
+    }
+
+    .contact_form {
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .contact_submit{
+        height: 50px;
+        padding: 10px 20px;
+    }
+    
+    .btn_submit{
+        height: 50px;
+        padding: 10px 20px;
+    }
+
+    .contact_icons ul li a{
+        font-size: 30px;
+        margin: 0 12px;
+       
+    }
+
+    /* footer section start here */
+
+    .footer_mg_d{
+        text-align: center;
+    }
+
+    .footer_1 address{
+        text-align: center;
+        margin-bottom: 35px;
+    }
+
+     
+
+    
+ 
+ }
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+    /* header section start here */
+    .logo_images{
+        width: 129px;
+        height: 37px;
+    }
+
+    .menu ul li a {
+        margin: 0px 6px;
+        font-size: 18px;
+    }
+
+
+    /* slider start here */
+
+    .slider{
+        padding-top:30px;
+    }
+    .slider_img_phn {
+        width: 260px;
+        height: 399px;
+    }
+
+    .slider_content h5 {
+        font-size: 18px;
+        line-height: 30px;
+        padding-right: 13px;
+    }
+
+    .slider_content p {
+        line-height: 25px;
+        padding-right: 0px;
+    }
+
+
+    /* feature start here */
+    .feature{
+        padding: 40px 0;
+        line-height: 30px;
+
+    }
+
+    .fe_margin_def {
+        margin-top: 45px;
+    }
+
+
+    /* contact section start here */
+    .contact {
+        padding: 50px 0;
+    }
+
+    .contact_form {
+        margin-top: 30px;
+        margin-bottom: 40px;
+    }
+
+ 
+
+ 
+
+    
+
+ }
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+
+}
+
+ /* Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+ 
+}
+
+
+ /* Extra large devices (extra large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+  
+ }
+
+
+
+
+
+ /* 
+    <meta name="title" content="Tinyone">
+    <meta name="description" content="Responsive website">
+    <meta name="keywords" content="home,feature,contacts">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="language" content="English">
+    <meta name="revisit-after" content="7 days">
+    <meta name="author" content="saifulislam24.com">
+ */
